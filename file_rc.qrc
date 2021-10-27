@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Config-icon.png</file>
+  </qresource>
+</RCC>
